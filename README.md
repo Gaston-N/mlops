@@ -1,7 +1,7 @@
-# mlops
-DS in Production - 5th Semester - Project and Exercises
+# Exercises
+DS in Production - 5th Semester 
 
-Authors:
+Group:
 
     - Gaston Navarro
     - Marin-Madalin Giurgica
